@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  pikabu
+
+  Created by Fangchen Huang on 2020-09-07.
+  Copyright © 2020 Fangchen Huang. All rights reserved.
+*/
+
+"RESIZE_INSTRUCTIONS" = "Resize/Reposition Subtitles Blocker";
